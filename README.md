@@ -93,7 +93,7 @@ Please follow these steps:
     [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
     or take a look at the following
     [NVIDIA Docker issue](https://github.com/NVIDIA/nvidia-docker/issues/1447#issuecomment-801479573).
-
+gg
     If you wish to run AlphaFold using Singularity (a common containerization
     platform on HPC systems) we recommend using some of the third party Singularity
     setups as linked in https://github.com/deepmind/alphafold/issues/10 or
